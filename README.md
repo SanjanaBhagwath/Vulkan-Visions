@@ -10,7 +10,7 @@ Vulkan-Visions is an Android application that generates and displays random colo
 
 ## Installation
 ```sh
-git clone https://github.com/yourusername/VulkanCanvas.git
+git clone https://github.com/SanjanaBhagwath/Vulkan-Visions.git
 ```
 
 ## Installation
