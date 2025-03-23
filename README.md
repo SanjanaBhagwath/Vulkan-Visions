@@ -27,9 +27,6 @@ git clone https://github.com/SanjanaBhagwath/Vulkan-Visions.git
 2. Watch as the app generates and displays randomized textured images.
 3. Modify shader files or texture generation logic to customize visuals.
 
-## Contributing
-Contributions are welcome! Feel free to open issues or submit pull requests.
-
 ## Acknowledgments
 - [Vulkan SDK](https://vulkan.lunarg.com/sdk/home)
 - [Vulkan Memory Allocator (VMA)](https://gpuopen.com/vulkan-memory-allocator/)
