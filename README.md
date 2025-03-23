@@ -1,6 +1,6 @@
 # Vulkan-Visions
 
-VulkanCanvas is an Android application that generates and displays random colored images with varying textures using Vulkan. It utilizes Vulkan Memory Allocator (VMA) for efficient memory management and showcases real-time texture manipulation without a swapchain.
+Vulkan-Visions is an Android application that generates and displays random colored images with varying textures using Vulkan. It utilizes Vulkan Memory Allocator (VMA) for efficient memory management and showcases real-time texture manipulation without a swapchain.
 
 ## Features
 - Randomized texture generation with varying colors and patterns.
